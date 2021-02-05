@@ -1,0 +1,41 @@
+/codepix/.pgdata
+
+
+
+# compiled output
+bank-api/dist
+bank-api/node_modules
+
+# Logs
+bank-api/logs
+bank-api/*.log
+bank-api/npm-debug.log*
+bank-api/yarn-debug.log*
+bank-api/yarn-error.log*
+bank-api/lerna-debug.log*
+
+# OS
+bank-api/.DS_Store
+
+# Tests
+bank-api/coverage
+bank-api/.nyc_output
+
+# IDEs and editors
+bank-api/.idea
+bank-api/.project
+bank-api/.classpath
+bank-api/.c9/
+bank-api/*.launch
+.settings/
+bank-api/*.sublime-workspace
+
+# IDE - VSCode
+bank-api/.vscode/*
+bank-api/!.vscode/settings.json
+bank-api/!.vscode/tasks.json
+bank-api/!.vscode/launch.json
+bank-api/!.vscode/extensions.json
+
+
+apache-kafka/.history/
