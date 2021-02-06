@@ -13,6 +13,7 @@ bank-api/npm-debug.log*
 bank-api/yarn-debug.log*
 bank-api/yarn-error.log*
 bank-api/lerna-debug.log*
+bank-api/.docker/dbdata
 
 # OS
 bank-api/.DS_Store
